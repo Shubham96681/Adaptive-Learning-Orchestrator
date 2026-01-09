@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "5052e02a-2a05-4eb9-8669-063c89e03c10",
+    "text": "Solve for x in the equation: 2x + 10 = 18.",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "86bfe160-bfa0-477d-96b0-a8279af595f3",
+    "text": "Solve for x in the equation: 2x + 17 = 16.",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "db237948-0ab4-4ed2-9edf-a739a977f87b",
+    "text": "If f(x) = 18x - 15, what is the value of f(7)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "60430329-1236-4efd-aab6-375023fb7d8f",
+    "text": "Simplify the expression: (1x^2) * (8x^3).",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "a4116a91-5bfb-41e3-9daa-352149bc77a8",
+    "text": "Simplify the expression: (16x^2) * (18x^3).",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "baf5565c-e7af-4efc-97cb-2648c2704989",
+    "text": "Solve for x in the equation: 2x + 2 = 2.",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "f4fe2c47-6f9d-49c9-ab11-b26bec6b3de1",
+    "text": "What is the slope of the line passing through (5,17) and (3,4)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "39cae3e6-3ff4-480c-a562-56c1535660c4",
+    "text": "What is the slope of the line passing through (16,8) and (6,5)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "19afa0cd-f367-4526-b3c6-4fcdd226340e",
+    "text": "Solve for x in the equation: 2x + 19 = 14.",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "2b4125ef-06f4-4ec2-96fa-23dd6acb6ab5",
+    "text": "If f(x) = 9x - 19, what is the value of f(5)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "87985cab-3d7f-49ed-8315-855a72376eab",
+    "text": "If f(x) = 4x - 19, what is the value of f(8)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "dfcd8b33-5e7e-4537-b3ed-2db6662228f9",
+    "text": "What is the slope of the line passing through (14,20) and (7,6)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "26126c1a-461c-4ade-a86d-2ceec26d9d53",
+    "text": "If f(x) = 7x - 13, what is the value of f(2)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "e3cce200-77fe-44f5-953e-09357f4fee2e",
+    "text": "Solve for x in the equation: 2x + 17 = 2.",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "169ef6eb-4c0a-4d28-99bb-c915e98fcdef",
+    "text": "What is the slope of the line passing through (9,20) and (8,6)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "a7e96a30-b162-48dd-9456-6c2722eb1274",
+    "text": "Factor the expression: x^2 + 21x + 108.",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "f5ce9c7c-f0d1-4cf6-a02b-ca51fd966b1b",
+    "text": "Factor the expression: x^2 + 19x + 90.",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "358294e5-a2c3-437c-8a2b-849f842222c2",
+    "text": "What is the slope of the line passing through (9,12) and (10,1)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "92b6a33b-c930-4c61-8acb-2fdcebdd8024",
+    "text": "Factor the expression: x^2 + 6x + 8.",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "5d900151-626d-4e3e-8d6d-c2d891e6864c",
+    "text": "If f(x) = 7x - 4, what is the value of f(10)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "7d987e09-7a1c-46b2-9c77-32ea464049ed",
+    "text": "Solve for x in the equation: 2x + 13 = 8.",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "69580c54-2ea5-420d-a113-0784861e8e64",
+    "text": "Simplify the expression: (4x^2) * (17x^3).",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "ac3ccc62-385e-473a-869b-86267293f93c",
+    "text": "What is the slope of the line passing through (13,19) and (8,9)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "060060e0-9916-4f7a-a38c-a831d380c10c",
+    "text": "Simplify the expression: (8x^2) * (1x^3).",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "0eef681e-4dee-4304-8b12-26e4b5a8e7ef",
+    "text": "Simplify the expression: (6x^2) * (16x^3).",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "a8388d45-0aec-4003-b588-ef9a0b7079cd",
+    "text": "What is the slope of the line passing through (1,9) and (5,7)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "6c8282ac-b10c-4a76-8b04-2ed0deec41b5",
+    "text": "Factor the expression: x^2 + 26x + 169.",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "a6853eea-b449-4dfc-94f0-4418aa21dbb3",
+    "text": "If f(x) = 5x - 13, what is the value of f(10)?",
+    "topic": "Algebra",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "b250decf-e226-493d-9cd1-e0c82545e025",
+    "text": "Factor the expression: x^2 + 24x + 143.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "4be888c0-13c4-416c-8cc9-8bcce6c928b8",
+    "text": "Simplify the expression: (16x^2) * (16x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "0485a27f-52e9-4b08-b39f-e22eaae4016c",
+    "text": "What is the slope of the line passing through (18,7) and (3,8)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "0f7a1093-3ad3-4010-b478-7afe7a73fc57",
+    "text": "Factor the expression: x^2 + 24x + 144.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "de735bc1-b636-40e5-b89e-5b4eab1405c5",
+    "text": "Solve for x in the equation: 2x + 18 = 17.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "5cea852e-9e65-4d8d-8535-cff49cd64c5f",
+    "text": "Factor the expression: x^2 + 16x + 60.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "5284d54e-3e11-4871-8b34-988e9a48deb0",
+    "text": "Simplify the expression: (1x^2) * (19x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "b6bc84cd-b1b1-4e42-af50-4fa5d767a828",
+    "text": "Simplify the expression: (14x^2) * (18x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "e91b606f-e36d-458b-8229-81a3567e376c",
+    "text": "Simplify the expression: (10x^2) * (11x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "4bef8b78-7677-4bb6-87ba-773683b2656c",
+    "text": "If f(x) = 5x - 14, what is the value of f(10)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "95f93845-7091-49b4-a6da-618e09a6ae73",
+    "text": "Solve for x in the equation: 2x + 18 = 11.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "ee912f57-7117-4d0d-906a-e108c4ea4090",
+    "text": "Simplify the expression: (12x^2) * (1x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "1e49ea90-553e-4b70-a6ff-61e86d1dda26",
+    "text": "Factor the expression: x^2 + 30x + 200.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "ad36c293-84a2-4bda-9ba0-104aaccfd02d",
+    "text": "What is the slope of the line passing through (1,15) and (6,7)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "c77e57e9-49dc-4a14-b209-5a371175d5f1",
+    "text": "If f(x) = 14x - 12, what is the value of f(4)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "8b06d69c-588b-4c35-9f0c-64d2df74addb",
+    "text": "Simplify the expression: (18x^2) * (14x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "db7dd831-ba28-41ab-b79e-66cf8609bd49",
+    "text": "What is the slope of the line passing through (10,3) and (9,7)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "e6b50cc6-2506-43a8-a001-9177a2051bcf",
+    "text": "Simplify the expression: (7x^2) * (1x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "feb48855-0237-4cd3-a629-582d84420f62",
+    "text": "Solve for x in the equation: 2x + 19 = 7.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "a7a4990b-de68-4ddc-9ae3-5bc5176257b5",
+    "text": "What is the slope of the line passing through (14,12) and (8,5)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "ba492ef3-879f-4dd4-9303-f7481e0f136d",
+    "text": "Solve for x in the equation: 2x + 19 = 17.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "6b454130-84a6-4f60-9aa3-21968ad99e82",
+    "text": "Simplify the expression: (1x^2) * (9x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "c4eaa117-a662-49d7-b963-7a74fa0b4e06",
+    "text": "What is the slope of the line passing through (17,19) and (8,7)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "c6a4abce-7cb8-4a4f-a3d7-b047772d98c3",
+    "text": "Simplify the expression: (11x^2) * (12x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "8a521ba1-e71a-4fa9-ada6-fb864c034aad",
+    "text": "Factor the expression: x^2 + 21x + 98.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "c9546510-12f3-48e8-a28d-e8ebfbcd3a93",
+    "text": "Factor the expression: x^2 + 12x + 35.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "d2d6da77-c1ca-4534-ad57-f0b69d4f5dcd",
+    "text": "Solve for x in the equation: 2x + 12 = 8.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "02cf7a72-641f-41db-8080-6166c853783c",
+    "text": "Simplify the expression: (8x^2) * (8x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "4a8a73bd-206b-464e-a5e5-41d21cd96648",
+    "text": "Factor the expression: x^2 + 27x + 162.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "40a73633-17e2-4ec2-ad0e-5015c68fefda",
+    "text": "If f(x) = 5x - 3, what is the value of f(6)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "70bd57f6-af6c-4b3d-bb22-9718e8b043ca",
+    "text": "What is the slope of the line passing through (11,12) and (1,10)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "ec9d0a1d-8195-4ef1-b634-bd473cacda81",
+    "text": "If f(x) = 11x - 9, what is the value of f(1)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "57be6700-1cc4-4910-9dd6-d54475c1a48a",
+    "text": "If f(x) = 12x - 9, what is the value of f(5)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "fb06aa82-764b-4df4-8fa3-7434f6afa8b8",
+    "text": "What is the slope of the line passing through (10,1) and (9,5)?",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "106efe4d-fe5e-4502-b1d3-fe736845fff5",
+    "text": "Simplify the expression: (20x^2) * (10x^3).",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "1508d34f-995a-417b-bfc4-43bb21117717",
+    "text": "Solve for x in the equation: 2x + 5 = 19.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "6c3adc83-0632-4e3f-8029-27309fe88263",
+    "text": "Solve for x in the equation: 2x + 7 = 16.",
+    "topic": "Algebra",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "1444fd5a-ba24-4d71-bf26-a03025bfa647",
+    "text": "Simplify the expression: (18x^2) * (15x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "a3190e83-4744-4ab4-92e4-12a5c0d8f4e2",
+    "text": "What is the slope of the line passing through (12,12) and (3,5)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "aa85f8c2-71ee-464a-a4ef-1aa340d87196",
+    "text": "What is the slope of the line passing through (16,11) and (9,7)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "567598a2-1b4b-4f34-ac81-714ae793fdc3",
+    "text": "Simplify the expression: (16x^2) * (15x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "91c47501-37d4-45b1-81e6-ce5c03421f46",
+    "text": "Simplify the expression: (2x^2) * (16x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "dee4f2cc-d4ee-4146-9681-8fc7a3756a7c",
+    "text": "Simplify the expression: (2x^2) * (3x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "fad57622-16d7-4709-89ee-dfb6b9397dc2",
+    "text": "Simplify the expression: (7x^2) * (3x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "73c4899d-61fa-4409-8e1e-2c2ee66060cc",
+    "text": "Solve for x in the equation: 2x + 4 = 18.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "8e3a870b-7030-4758-a690-14c9b79dc1a5",
+    "text": "If f(x) = 11x - 9, what is the value of f(3)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "a112b328-6903-4224-9afa-09df3c78a301",
+    "text": "Factor the expression: x^2 + 22x + 112.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "12ff5870-516b-4e76-863f-71f4390c606f",
+    "text": "What is the slope of the line passing through (13,17) and (8,3)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "34f3ea21-68bc-40f0-994a-9ddd66a4e452",
+    "text": "Factor the expression: x^2 + 31x + 240.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "b6cb2d6b-242b-4563-82cf-f9726340d26a",
+    "text": "If f(x) = 12x - 14, what is the value of f(4)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "d8ac9371-c73d-4107-95d8-7a74e4611f3b",
+    "text": "Solve for x in the equation: 2x + 3 = 15.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "3a646961-8803-4d2b-8f8c-e2ec8cb3f3e9",
+    "text": "What is the slope of the line passing through (10,1) and (1,6)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "5190601f-16b5-4a7f-9531-a83c71142ebe",
+    "text": "Factor the expression: x^2 + 16x + 28.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "8d4b9377-4a48-4df5-86c7-1a932d896638",
+    "text": "If f(x) = 11x - 14, what is the value of f(9)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "bf697fc3-2def-4352-9f4f-3879fe0dd744",
+    "text": "Simplify the expression: (10x^2) * (3x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "f6c792fe-090a-4156-b8bd-da6a7a69ff83",
+    "text": "Solve for x in the equation: 2x + 1 = 14.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "72a40360-a59e-4f5c-96ad-144dd96ca36b",
+    "text": "Factor the expression: x^2 + 14x + 13.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "42a13327-259d-469e-b520-3534d731ee2e",
+    "text": "If f(x) = 3x - 7, what is the value of f(1)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "dc67e714-0c16-4f8b-8acf-3ca490348768",
+    "text": "Simplify the expression: (7x^2) * (4x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "8a6e699f-20a4-40b0-8f8e-178f6415c4ed",
+    "text": "Factor the expression: x^2 + 6x + 8.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "74055233-879c-4d7e-b555-c79cf81d86c5",
+    "text": "If f(x) = 1x - 15, what is the value of f(5)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "0a13d12e-e230-4182-bf7a-1abef274fe45",
+    "text": "Solve for x in the equation: 2x + 15 = 18.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "b4e83ed2-9e57-46c9-9ef2-0f13ec136a82",
+    "text": "Simplify the expression: (15x^2) * (12x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "0ecd8b98-700b-40fe-8eb7-c84d3d7e9cc3",
+    "text": "Simplify the expression: (10x^2) * (9x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "6affb7d6-5763-4bd0-9816-a1962bf3950b",
+    "text": "Factor the expression: x^2 + 21x + 110.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "11909540-4505-4a15-a935-e0a7e176893f",
+    "text": "Simplify the expression: (5x^2) * (13x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "b523b2e8-60c4-4114-875d-7bf427f2df9f",
+    "text": "Factor the expression: x^2 + 14x + 48.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "0fdca17d-3da4-4861-9dfa-ac888764ea43",
+    "text": "Solve for x in the equation: 2x + 8 = 13.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "2a8d9b67-3a3d-4ff8-8cb4-8963e338f33f",
+    "text": "Factor the expression: x^2 + 9x + 20.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "6ae5e32d-de1c-4105-be4c-383491bb016b",
+    "text": "If f(x) = 5x - 7, what is the value of f(7)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "820e7e3f-09bc-4d99-a071-a4175c849ce0",
+    "text": "Simplify the expression: (9x^2) * (20x^3).",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "a5a3eda4-82dc-4a5e-91c8-d44d86d4287e",
+    "text": "Solve for x in the equation: 2x + 5 = 18.",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "8807458d-a2ea-4fe3-adf5-a78d680eef83",
+    "text": "If f(x) = 12x - 3, what is the value of f(7)?",
+    "topic": "Algebra",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "cdbc1124-2579-48f9-97f9-e25c8ae70fcd",
+    "text": "What is the sum of 4 and 2?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "576eaf16-5262-4c81-bdce-115cf3d290fd",
+    "text": "Calculate 4 multiplied by 15.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "a54936d3-c643-4ebe-bc16-83af492c1a21",
+    "text": "Calculate 3 multiplied by 12.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "53d05154-b4bd-4145-af21-8079e35e9a4a",
+    "text": "Divide 3 by 18 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "be624618-c53e-4f69-b6ea-d1a220790d24",
+    "text": "What is 19% of 14?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "da0b4727-ccf7-4b7d-bfdb-1fe0d28dce2e",
+    "text": "Calculate 14 multiplied by 8.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "dec0d46a-9600-4bf8-a98a-617f0204626c",
+    "text": "What is the sum of 6 and 8?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "2b6d7f13-128e-49c6-adba-ae73bdeae7f5",
+    "text": "What is the sum of 7 and 3?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "4753817b-9377-4d42-9aea-ef5ed745881b",
+    "text": "What is the sum of 10 and 6?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "20412d6f-425e-4e00-9be9-9b0f914ee7b2",
+    "text": "Calculate 6 multiplied by 19.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "5d892201-f766-4244-bfb4-24d41716ae19",
+    "text": "Divide 10 by 8 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "ab64c310-a9ab-453c-a9c8-cb6e18909433",
+    "text": "What is the sum of 15 and 12?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "fd5e0e2f-5cff-4e31-a6dc-6c7c4023b937",
+    "text": "What is the sum of 14 and 9?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "7e0eec9d-8238-499b-82aa-0b2e908e058e",
+    "text": "If you have 8 apples and you give away 17, how many are left?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "fdacce4d-a0e3-4f8d-9e3e-e2616be1678f",
+    "text": "Calculate 6 multiplied by 8.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "82e74078-b338-458b-ae88-c0b02a3b0fb4",
+    "text": "Calculate 10 multiplied by 10.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "d8e6b844-b362-4efe-ad4c-b4791107e241",
+    "text": "Calculate 16 multiplied by 16.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "cbe3f916-06c9-4bc7-988a-d8aa9092b7bd",
+    "text": "If you have 2 apples and you give away 15, how many are left?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "2b994beb-53c7-4ccc-a289-dbb76f70d679",
+    "text": "What is 4% of 2?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "34e08225-9980-41aa-a9c7-7d8e4c71bde4",
+    "text": "What is 17% of 19?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "3bd97a53-bab0-49f7-b3f7-1b6f7bda0146",
+    "text": "What is 9% of 18?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "afac4dbf-ac07-45a5-bab6-8bc439fa82e7",
+    "text": "Divide 19 by 13 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "f0a8daeb-7bd1-4d31-9989-5dda03101e60",
+    "text": "If you have 19 apples and you give away 16, how many are left?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "bb67d157-5926-4356-8955-f5c373cf5402",
+    "text": "Calculate 11 multiplied by 8.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "06449607-50db-4d7d-8eec-f82265ef1d31",
+    "text": "What is the sum of 11 and 20?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "c8bffbe3-d5fb-4b14-99f3-51ba9e7b3010",
+    "text": "What is the sum of 9 and 7?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "7afcee54-9c59-40e3-86a7-b394680f1578",
+    "text": "Calculate 7 multiplied by 17.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "ae47d364-692a-4b79-a117-248d21e0ed37",
+    "text": "Calculate 10 multiplied by 20.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "58651554-076a-41da-8cb4-2cff3747d389",
+    "text": "What is 1% of 6?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "97a3af9c-125d-4e4a-8c41-84289e447ca2",
+    "text": "What is 15% of 15?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "b88b50ba-28dc-44d3-a212-0f1ed107ee08",
+    "text": "Divide 17 by 13 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "39a640f2-2650-4614-a36f-ac5fe14208ac",
+    "text": "Divide 17 by 12 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "408ffe35-faec-40a8-8e75-df37a4a0d5f8",
+    "text": "What is the sum of 20 and 18?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "ca29ccfd-2741-4138-99b8-d91370295dcb",
+    "text": "Divide 4 by 15 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "5f9be134-3663-4e1c-b79c-fb0851cee816",
+    "text": "What is 4% of 14?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "6bf2d528-c885-42da-a6a7-14e86c1e57fe",
+    "text": "If you have 2 apples and you give away 9, how many are left?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "bf0e2463-9d44-4187-8df5-18e64c9e6f02",
+    "text": "If you have 12 apples and you give away 8, how many are left?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "147e5348-b2b7-4740-9300-eb09f59437bb",
+    "text": "Calculate 8 multiplied by 3.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "59a58100-c57f-4254-b931-9cf1b2b559e5",
+    "text": "What is 5% of 2?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "94c297ff-9b5e-4641-9093-0c4927123432",
+    "text": "What is 1% of 16?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "2cd17521-b7b2-489c-8e52-2d258d775875",
+    "text": "What is the sum of 3 and 8?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "69610bf0-9a07-412d-9513-8be7819d620e",
+    "text": "Divide 5 by 20 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "c154f407-7ec1-4098-ae26-6458e79d7dd9",
+    "text": "What is 7% of 18?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "733239c7-2404-4efb-a039-2ed25ff5f463",
+    "text": "Divide 3 by 11 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "53e1859e-d8fc-4ece-83f5-f4a5b994166c",
+    "text": "What is 4% of 2?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "f8a6036d-aef4-41ed-a128-02307d09f7c0",
+    "text": "What is 12% of 7?",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "d0ccfed1-2c28-4c91-aed5-4ea335eb85a9",
+    "text": "Calculate 16 multiplied by 19.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "1293c60e-9e2f-4e65-b7a0-172b633b5f2c",
+    "text": "Calculate 6 multiplied by 6.",
+    "topic": "Arithmetic",
+    "difficulty": 1,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "4ed7c0e6-59b0-4254-8ba6-43df24500d88",
+    "text": "Calculate 6 multiplied by 14.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "5366941e-23c9-42b4-a48e-6d7798ff443a",
+    "text": "What is 2% of 8?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "c37e173f-d0e9-4e3c-b54a-6362dba9248c",
+    "text": "What is 6% of 16?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "59322d1c-833a-4e22-98cd-cf28b7b8d574",
+    "text": "Divide 6 by 16 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "8e5da7e5-f749-464b-a6bf-83f5a92868ef",
+    "text": "What is 18% of 18?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "9f023839-e719-441b-85d7-8a06e763fc71",
+    "text": "Calculate 5 multiplied by 7.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "e0eedbf6-a7a0-4222-a537-85a70ff3ee1b",
+    "text": "Divide 13 by 5 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "19a20796-818b-4747-b2c6-c7a71c92557f",
+    "text": "Divide 4 by 16 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "89211310-527f-4fcd-bc3c-b32d354908d3",
+    "text": "What is 9% of 18?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "0457e576-219e-439e-9c39-d3214d3bac41",
+    "text": "What is 18% of 14?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "6e0c46a6-0f72-41c6-b4dc-643e4c029076",
+    "text": "What is the sum of 12 and 10?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "b9d6ca51-9446-4b5b-a4f8-2f2c8bafe8da",
+    "text": "What is 12% of 1?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "341fd32e-4b7c-42e9-9c27-f62049ad5652",
+    "text": "Calculate 13 multiplied by 5.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "757fe0ac-fa42-45db-9c2f-5d1c35edd650",
+    "text": "Calculate 17 multiplied by 17.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "2ed12740-ed8b-41b6-a896-e484a7331115",
+    "text": "What is the sum of 13 and 10?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "3fe8c991-304b-4bfd-83c8-32089096e5ed",
+    "text": "If you have 12 apples and you give away 11, how many are left?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "209dcf29-7ddc-441b-b377-273d830ebdf2",
+    "text": "Divide 10 by 7 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "5f0a5bfc-1e3f-4902-ac66-59f86d141ff7",
+    "text": "Divide 13 by 8 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "30da7e12-1598-49c9-a126-5f87c88b7d26",
+    "text": "What is 7% of 1?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "d5443a83-d4d8-48c1-8177-a6d9339e382e",
+    "text": "What is 1% of 20?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "ee6dbc0a-cdc8-4012-b328-2a1936b5c634",
+    "text": "Divide 13 by 18 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "656afa3d-ecbf-4885-bf2b-ae2cde699487",
+    "text": "Divide 9 by 14 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "e7d07f92-918d-410b-aa16-33a6e59d1b6d",
+    "text": "Divide 11 by 1 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "d317b61e-5250-4280-9475-1b66b6c939c2",
+    "text": "If you have 5 apples and you give away 8, how many are left?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "6d87334c-93c2-4269-8cf3-5dff1c36bd3b",
+    "text": "Divide 3 by 9 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "dbbfa25f-f2c5-4641-9753-a5072227e22d",
+    "text": "What is 10% of 14?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "bfb710dd-c226-4b6a-94bf-e23731416477",
+    "text": "What is the sum of 13 and 10?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "8f4b6b93-abdb-4b1d-b38a-c279322c6a3c",
+    "text": "Calculate 11 multiplied by 5.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "246820d4-455e-4df9-a305-433e8c157d4d",
+    "text": "Calculate 7 multiplied by 12.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "96be9b61-bc18-4907-97ae-3635de327d10",
+    "text": "What is 20% of 20?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "95c69b33-7256-4597-a67f-360a70561eef",
+    "text": "What is the sum of 17 and 11?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "528d9af8-c821-4c77-b026-f3dada646e5a",
+    "text": "Divide 12 by 16 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "db5cd3e8-cefd-4ba3-b07d-8ecd92d37959",
+    "text": "If you have 9 apples and you give away 20, how many are left?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "b361a079-e170-42ea-9e79-21dfd2db0e70",
+    "text": "Divide 15 by 16 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "7cddf89c-af55-4962-ac1b-42f6ebd0431e",
+    "text": "Calculate 18 multiplied by 20.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "4bd691a9-eeab-49e3-9f11-b7261ff4373b",
+    "text": "What is the sum of 7 and 17?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "7a52964c-72ee-4417-94a9-6c2ca1d66f80",
+    "text": "Divide 20 by 2 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "bbc0971c-57cd-4216-84a3-e01009997ebe",
+    "text": "What is the sum of 6 and 13?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "9cb6c8ca-2665-4475-b9c2-ff7a53c657aa",
+    "text": "What is the sum of 11 and 5?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "495599ed-2008-45aa-978a-2c1f253a2628",
+    "text": "If you have 17 apples and you give away 17, how many are left?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "29c1bed5-a9fe-4159-81ee-10f2907d981b",
+    "text": "If you have 17 apples and you give away 19, how many are left?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "fac4c2ba-8a5f-4deb-8b3f-74dd2ea21d49",
+    "text": "What is the sum of 16 and 17?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "535dc559-2777-4211-ad6e-b5968d24bee9",
+    "text": "What is 11% of 4?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "a1c5788a-c2c7-4fc1-9617-ed4a27224754",
+    "text": "Divide 13 by 17 and find the remainder.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "f2baae93-71bd-4c10-83be-b63828ad9db9",
+    "text": "Calculate 13 multiplied by 13.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "062ffb7c-aaef-4d88-8a0c-12ae8700e0d1",
+    "text": "What is the sum of 8 and 1?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 2
+  },
+  {
+    "id": "99dbe5c6-b758-4742-8c51-cc92109b840b",
+    "text": "What is 8% of 5?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 1
+  },
+  {
+    "id": "af03673f-e30a-41b5-ad3e-378686318868",
+    "text": "Calculate 10 multiplied by 14.",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "020e11e0-5667-42b3-befa-061caf767548",
+    "text": "What is the sum of 12 and 1?",
+    "topic": "Arithmetic",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "163ec93f-fe03-457e-af0b-69abf0215c3a",
+    "text": "Find the derivative of f(x) = 4x^8.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "e6daea9f-e6a0-43bb-a673-e9673f1e6d6e",
+    "text": "Determine if the series Sum(1/n^13) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "6720780d-4f48-436c-8e3c-702129964835",
+    "text": "Determine if the series Sum(1/n^13) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "944e2a01-260d-4f94-9827-464885f30e9b",
+    "text": "What is the integral of 18x + 9 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "95d8bf21-f5e5-4687-bc61-970075ed546d",
+    "text": "Find the limit of (x^2 - 169) / (x - 13) as x approaches 13.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "74b6b434-38af-4c22-b628-c7216ecf0a16",
+    "text": "What is the integral of 5x + 15 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "419a34b4-6e62-488e-99e4-3d3c5cae3853",
+    "text": "Find the limit of (x^2 - 400) / (x - 20) as x approaches 20.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "f06e0035-9597-4fb7-802a-8bda04ce37fd",
+    "text": "Find the derivative of f(x) = 11x^16.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "34b2d80e-7a40-401d-913f-ea9542af49cb",
+    "text": "Find the limit of (x^2 - 49) / (x - 7) as x approaches 7.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "4976945c-6b74-4f80-a81c-665e6f5a3160",
+    "text": "Use the product rule to find the derivative of f(x) = (x^13) * (9x).",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "682438f0-e8f1-4fb7-a773-3910506d27ab",
+    "text": "Determine if the series Sum(1/n^4) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "780531ab-9722-4e27-892c-9675981647e7",
+    "text": "Find the limit of (x^2 - 36) / (x - 6) as x approaches 6.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "d676a25c-320c-4d79-82c4-f0613b67903b",
+    "text": "Find the limit of (x^2 - 121) / (x - 11) as x approaches 11.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "428b8319-7dc1-4c0b-b31a-de755e49d196",
+    "text": "Use the product rule to find the derivative of f(x) = (x^20) * (17x).",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "05385dfa-2bb1-4cb1-92d4-36feb8e8d299",
+    "text": "What is the integral of 17x + 10 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "7d1c055a-114a-4303-afff-14c8df3303ac",
+    "text": "What is the integral of 6x + 5 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "b8a92be2-7c9a-40be-9350-3d7ca40959e8",
+    "text": "What is the integral of 12x + 15 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "b7b0f490-319d-4020-8b6c-910724d77024",
+    "text": "Find the derivative of f(x) = 6x^4.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "231d7015-bae0-40e8-aa08-54bf6a245bdb",
+    "text": "What is the integral of 10x + 9 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "95fe264f-8992-42af-b837-348b265a53e8",
+    "text": "Find the limit of (x^2 - 1) / (x - 1) as x approaches 1.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "9d4549c6-bee6-43fc-badb-a53dd5788f10",
+    "text": "What is the integral of 10x + 18 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "cda8dbbe-aea1-452e-9916-aa69755a6e86",
+    "text": "Use the product rule to find the derivative of f(x) = (x^7) * (11x).",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "5e44f197-2bb2-40f8-af2f-bfe032271f74",
+    "text": "Use the product rule to find the derivative of f(x) = (x^7) * (6x).",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "b1c7c826-63f3-4b16-9ee4-751e49c3646c",
+    "text": "Find the derivative of f(x) = 10x^6.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "95424f74-2c01-49d6-a516-47082a8ce334",
+    "text": "Use the product rule to find the derivative of f(x) = (x^2) * (3x).",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "bdeefa0d-c07f-4756-aad4-44cc5e344301",
+    "text": "Find the derivative of f(x) = 18x^19.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "7c44add7-e2ac-4614-babb-8f10148cefdf",
+    "text": "Use the product rule to find the derivative of f(x) = (x^11) * (19x).",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "24ab8020-d0c2-4aff-bc22-2cb9ea4371a8",
+    "text": "Find the derivative of f(x) = 10x^11.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "f16049a9-47b3-47c4-8f51-4ac27f1dedcf",
+    "text": "Use the product rule to find the derivative of f(x) = (x^10) * (9x).",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "d0b719ef-7ac6-49a1-99b8-8811ac312ecb",
+    "text": "Determine if the series Sum(1/n^5) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "b3d52ea0-2d62-46c8-86fa-961d8d3e4adb",
+    "text": "Determine if the series Sum(1/n^4) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "fb8761da-b4b0-4765-8005-98e30f7d1bdb",
+    "text": "What is the integral of 16x + 12 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "b676198c-7f85-4bae-b4f8-67e90c58b69d",
+    "text": "Find the limit of (x^2 - 81) / (x - 9) as x approaches 9.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "3f1151cb-39d3-4d5d-8286-5b380bf30de8",
+    "text": "Determine if the series Sum(1/n^7) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "100e3f36-c87f-4e63-9315-f818d8f4b1a0",
+    "text": "Find the derivative of f(x) = 1x^20.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "1587b5ca-e572-40bd-842d-7e435b6c3910",
+    "text": "What is the integral of 10x + 4 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "ef11d362-8043-4924-9c33-c5f6744bc1e4",
+    "text": "Determine if the series Sum(1/n^19) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "9cfb29ff-65dc-42a6-8546-7dd2542df6c4",
+    "text": "Use the product rule to find the derivative of f(x) = (x^5) * (11x).",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "8e1414fc-a9bd-4f38-944e-bb698e4d36ba",
+    "text": "Use the product rule to find the derivative of f(x) = (x^13) * (12x).",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "f411e0a5-acd8-4f00-811d-2069310c226c",
+    "text": "Find the derivative of f(x) = 10x^3.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "d0822b68-518b-4482-bc5b-103ea058d3a4",
+    "text": "What is the integral of 4x + 17 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "4d827441-625f-4eb4-b50d-5307e29c8965",
+    "text": "Find the limit of (x^2 - 9) / (x - 3) as x approaches 3.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "8b296bf0-d886-45d4-ba8f-0cd1f8206432",
+    "text": "Find the derivative of f(x) = 19x^15.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "6b990faa-c5ce-496c-b435-b55af8720d14",
+    "text": "Determine if the series Sum(1/n^18) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "3ab5ce49-74e6-4d96-813f-a063cbbcca4c",
+    "text": "Find the limit of (x^2 - 49) / (x - 7) as x approaches 7.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "c1cd2076-5668-4cff-aa01-37e700bbfa32",
+    "text": "What is the integral of 8x + 7 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "332ce7e2-01e2-4f82-9c03-c4de47823a44",
+    "text": "Determine if the series Sum(1/n^20) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "89ab2d7f-41a1-40ff-9d0c-92a701b1f994",
+    "text": "Find the derivative of f(x) = 20x^18.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "d3d0d8d5-3d0c-498a-9684-05ae27f59f40",
+    "text": "Use the product rule to find the derivative of f(x) = (x^19) * (18x).",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "35da8af8-8c82-4759-a492-fe3e23e2101e",
+    "text": "Find the derivative of f(x) = 4x^11.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "bd5778fa-86c7-4dbc-8419-dea6496a14c9",
+    "text": "Find the limit of (x^2 - 169) / (x - 13) as x approaches 13.",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "9810d024-751d-45eb-adfe-8063cbdc90bc",
+    "text": "What is the integral of 3x + 6 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "b15c0b25-2cd5-403b-8444-19ada61b2cce",
+    "text": "Use the product rule to find the derivative of f(x) = (x^5) * (9x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "2966e760-22cb-4105-b09d-96a354713981",
+    "text": "What is the integral of 13x + 15 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "9d485b74-7dff-44a1-83ef-0e26c11cfdcb",
+    "text": "Use the product rule to find the derivative of f(x) = (x^18) * (4x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "b70d73be-0f73-4c81-bdeb-8e2d0b6a169f",
+    "text": "Find the limit of (x^2 - 225) / (x - 15) as x approaches 15.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "718de3d4-d207-49a7-9721-5ec68a79368a",
+    "text": "Find the limit of (x^2 - 169) / (x - 13) as x approaches 13.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "8c048880-3690-49be-ad34-598200343e5f",
+    "text": "Determine if the series Sum(1/n^14) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "00883742-38de-4dac-9197-b7e85489b701",
+    "text": "Find the limit of (x^2 - 121) / (x - 11) as x approaches 11.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "c959c82f-2626-4dd0-ab7a-e1dfd9851743",
+    "text": "Use the product rule to find the derivative of f(x) = (x^4) * (1x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "e4fb96f9-f9b8-41e4-be03-4c39150c19dc",
+    "text": "Find the limit of (x^2 - 256) / (x - 16) as x approaches 16.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "34bf716c-467f-4ba1-a0df-189de9c0f379",
+    "text": "Find the limit of (x^2 - 289) / (x - 17) as x approaches 17.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "d846c58e-6518-4925-8fc0-a3ad4c35876d",
+    "text": "Find the derivative of f(x) = 4x^4.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "3a0a804f-56bd-460f-9ec4-7a60c91df72f",
+    "text": "Find the limit of (x^2 - 289) / (x - 17) as x approaches 17.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "a9841e13-5591-4475-8f02-c203921fe725",
+    "text": "Use the product rule to find the derivative of f(x) = (x^9) * (8x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "821353e7-d315-4a6a-ba1b-9e30d1cda5bd",
+    "text": "What is the integral of 9x + 2 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "d8bb3cf7-1d74-47c4-b508-4a6e80ef7ec8",
+    "text": "Find the derivative of f(x) = 20x^9.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "c0e1c3e1-4390-4db4-abb4-419d7cde8f47",
+    "text": "Determine if the series Sum(1/n^4) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "f6dede71-80ea-43ff-a7a0-9bba282e2711",
+    "text": "Determine if the series Sum(1/n^19) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "5f065651-6852-4d11-a90a-aa61acda5298",
+    "text": "Use the product rule to find the derivative of f(x) = (x^18) * (4x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "63c7e992-1af7-40b4-8cd6-e06486c1d303",
+    "text": "Find the limit of (x^2 - 361) / (x - 19) as x approaches 19.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "2f29a266-ae0f-4978-9775-6989875b2786",
+    "text": "Use the product rule to find the derivative of f(x) = (x^17) * (1x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "aecec2b3-7d29-496a-a9b7-7963544833d3",
+    "text": "Determine if the series Sum(1/n^7) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "c5f4d8f1-38cf-42e4-837c-72e32ec67777",
+    "text": "Determine if the series Sum(1/n^1) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "dffb26a7-7435-43dc-b297-348f04f18769",
+    "text": "Use the product rule to find the derivative of f(x) = (x^14) * (3x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 14
+  },
+  {
+    "id": "b5e753b5-27fd-440b-8be1-41ada3505e80",
+    "text": "Use the product rule to find the derivative of f(x) = (x^1) * (15x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "773cf24b-ac06-4750-bd86-5833dcc9abf7",
+    "text": "What is the integral of 15x + 15 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "6a3d2775-f30e-4b9b-8761-aac054314106",
+    "text": "Find the derivative of f(x) = 15x^5.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "aabd4859-bd24-4cb6-ac94-debf328104e9",
+    "text": "Find the derivative of f(x) = 1x^2.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "1f2cb5f6-8413-473a-b9f5-8ed54b7e4629",
+    "text": "Find the limit of (x^2 - 4) / (x - 2) as x approaches 2.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "aec94dd7-df12-43a6-a007-c8478e9552fd",
+    "text": "Use the product rule to find the derivative of f(x) = (x^16) * (6x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "f0d992ff-c697-459b-9720-935cbf11e06f",
+    "text": "Find the derivative of f(x) = 15x^19.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "b36e2e8f-0adc-4cda-923c-37ed2b2b59f4",
+    "text": "Determine if the series Sum(1/n^13) from n=1 to infinity converges or diverges.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "34311c46-190b-4075-817e-1672985bd2b0",
+    "text": "Find the limit of (x^2 - 81) / (x - 9) as x approaches 9.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "98748c4e-4005-405d-9e29-d9c6c85026b6",
+    "text": "Find the limit of (x^2 - 64) / (x - 8) as x approaches 8.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "11645d5a-bdb2-47be-8f20-4082b8e29382",
+    "text": "Use the product rule to find the derivative of f(x) = (x^7) * (14x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "894a0dff-fd27-4855-89cf-e970a07e48e7",
+    "text": "Find the derivative of f(x) = 17x^8.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "3197f6f7-95fd-47ba-84da-e563328f9e74",
+    "text": "What is the integral of 10x + 19 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "ec424671-8c7d-4a7c-b6e2-40f5223feac9",
+    "text": "Find the derivative of f(x) = 10x^18.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "3dd796e1-a2e6-4661-a82d-9949aa6287d5",
+    "text": "Use the product rule to find the derivative of f(x) = (x^11) * (13x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "c877b25f-1629-4e31-af81-e77c88f601a6",
+    "text": "Find the limit of (x^2 - 361) / (x - 19) as x approaches 19.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "25e0efee-dda2-4553-b4b9-4bf7884dc9d4",
+    "text": "Find the limit of (x^2 - 100) / (x - 10) as x approaches 10.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 15
+  },
+  {
+    "id": "1cadfa9d-3bf4-4d75-ae5a-1f4df00b9283",
+    "text": "What is the integral of 12x + 17 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "88767273-8584-4b4f-a8b1-4bbef585155f",
+    "text": "Find the limit of (x^2 - 81) / (x - 9) as x approaches 9.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "9ad24797-f875-4ed5-b814-55d4badeb2bf",
+    "text": "Use the product rule to find the derivative of f(x) = (x^8) * (9x).",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "abd6606d-db09-41c6-97f0-1fa103d5d780",
+    "text": "Find the derivative of f(x) = 14x^8.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "513d552e-b514-431d-8b09-b86f8e441066",
+    "text": "Find the limit of (x^2 - 324) / (x - 18) as x approaches 18.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "bd5a085b-d9b5-4be4-8cd0-96dbcff021e4",
+    "text": "Find the limit of (x^2 - 225) / (x - 15) as x approaches 15.",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "4bd343c4-1ee2-40ef-bf95-578ccb2a24e3",
+    "text": "What is the integral of 12x + 8 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 13
+  },
+  {
+    "id": "07e43d0c-e329-4d00-9918-3c9dad2b80e9",
+    "text": "What is the integral of 17x + 8 with respect to x?",
+    "topic": "Calculus",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "13a36528-6632-4a3d-b605-fe3e9bf41db2",
+    "text": "Find the hypotenuse of a right triangle with legs of length 2 and 19.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "f934f570-2ced-416b-a467-8a7756d47f2e",
+    "text": "Calculate the perimeter of a circle with a radius of 3.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "acac7773-f0c1-4230-a98e-687914240613",
+    "text": "Calculate the perimeter of a circle with a radius of 5.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "453a0504-0d47-4930-ab90-a8ea5fdc083d",
+    "text": "Find the hypotenuse of a right triangle with legs of length 12 and 11.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "8ae7d9f5-72c8-41c0-a6f7-6c9317d4a238",
+    "text": "Calculate the perimeter of a circle with a radius of 14.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "57c476dd-4c06-4718-8813-7deadc92d656",
+    "text": "What is the area of a rectangle with sides 20 and 17?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "8cde6919-4d6e-4fa2-9482-bf7e7e3047b3",
+    "text": "What is the area of a rectangle with sides 4 and 4?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "87d2778c-07dd-4b5e-b063-08c322dd1a87",
+    "text": "If two angles in a triangle are 7 and 18 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "9a4e4e0c-1752-4e84-8146-14becf0aa147",
+    "text": "What is the area of a rectangle with sides 9 and 1?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "18d9424b-7bba-4d5a-a71a-d2c77cb79220",
+    "text": "Find the hypotenuse of a right triangle with legs of length 15 and 9.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "affd9d18-602c-4c99-b193-1c58859417aa",
+    "text": "If two angles in a triangle are 1 and 2 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "4cf87171-558f-413e-9072-4d36617524a3",
+    "text": "Calculate the perimeter of a circle with a radius of 20.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "f2e6c962-2b3d-4fa9-9edc-33131ac5db7e",
+    "text": "Calculate the perimeter of a circle with a radius of 14.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "412c11d9-66b6-48fc-997b-ecfeee38c47a",
+    "text": "What is the area of a rectangle with sides 2 and 20?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "a4713a8e-4c16-41bb-b1b7-eaa5b4ed12b6",
+    "text": "What is the area of a rectangle with sides 1 and 3?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "a8cc51e5-c930-47c5-94da-2c04feff215a",
+    "text": "If two angles in a triangle are 3 and 17 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "1d86789a-6502-4e6a-b8b3-227d75e5502f",
+    "text": "If two angles in a triangle are 12 and 20 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "ea886841-bdaf-4056-a847-47bb568d4b07",
+    "text": "What is the area of a rectangle with sides 18 and 9?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "2906a6f5-64b1-42b2-a3a3-161c815f1228",
+    "text": "If two angles in a triangle are 5 and 17 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "2fea02f0-ec42-4d82-ba7b-e126683e8752",
+    "text": "What is the area of a rectangle with sides 9 and 6?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "ee30a5ee-3753-449b-bc97-854ef49a5736",
+    "text": "Calculate the perimeter of a circle with a radius of 7.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "eb556be7-7111-4e1f-8737-93502a4c558a",
+    "text": "Find the hypotenuse of a right triangle with legs of length 15 and 14.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "df57a447-5115-44fa-9804-435f63b8fda5",
+    "text": "Find the hypotenuse of a right triangle with legs of length 20 and 14.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "820eebb6-12ab-4e31-8d4a-10e6ad90e6ed",
+    "text": "What is the volume of a cube with a side length of 19?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "bd049a84-84db-4e49-82d4-c9dc7aac7b96",
+    "text": "What is the volume of a cube with a side length of 4?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "0bb7716d-6018-4aaf-9ad0-3d724968d1f2",
+    "text": "What is the volume of a cube with a side length of 16?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "d3741dbd-1bfb-4165-bbd9-8d47caee01e2",
+    "text": "Calculate the perimeter of a circle with a radius of 19.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "4273b2ee-8398-445e-9b59-2dacce915af6",
+    "text": "If two angles in a triangle are 15 and 18 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "9092ff7a-0312-4776-a03d-484626feeadc",
+    "text": "If two angles in a triangle are 10 and 8 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "7142f36c-d8ae-4904-b0be-ee0307ed936d",
+    "text": "Find the hypotenuse of a right triangle with legs of length 13 and 18.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "81b2cc88-5935-4183-8de5-f86f7a2e3107",
+    "text": "Calculate the perimeter of a circle with a radius of 11.",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "6a6127c6-9ffc-45d2-8947-4c2cce733826",
+    "text": "What is the volume of a cube with a side length of 12?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "5a4cdd70-4043-40e3-8655-8374209b230a",
+    "text": "What is the volume of a cube with a side length of 16?",
+    "topic": "Geometry",
+    "difficulty": 2,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "1988370b-2dd5-4948-9cf0-896a3f1a18f4",
+    "text": "Calculate the perimeter of a circle with a radius of 3.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "a4321b53-ffac-430a-ac04-30aee35c56d5",
+    "text": "What is the volume of a cube with a side length of 19?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "35d6b349-8feb-4c2e-9905-a86a770b107b",
+    "text": "If two angles in a triangle are 16 and 16 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "b31f0030-511f-4feb-9c97-def19ab0005b",
+    "text": "What is the area of a rectangle with sides 10 and 6?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "bce0a6e0-1a88-4064-b1b8-10d3b2597668",
+    "text": "If two angles in a triangle are 7 and 4 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "b8a11fde-3235-461d-9378-6f7f3e82d188",
+    "text": "What is the volume of a cube with a side length of 12?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "9a9fa4cd-1889-4086-9c97-c8ad0bf7a1ef",
+    "text": "What is the area of a rectangle with sides 13 and 10?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "6b53dd2f-700b-46b7-9183-976899dca0a2",
+    "text": "If two angles in a triangle are 3 and 11 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "94129147-391e-4f14-85d5-dd7c116c1a11",
+    "text": "Find the hypotenuse of a right triangle with legs of length 6 and 4.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "072b6528-88e7-498a-8f8c-a4ee7c10fa1b",
+    "text": "What is the area of a rectangle with sides 15 and 9?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "19764885-3e1e-46fc-a7e5-b0ae8b617844",
+    "text": "What is the volume of a cube with a side length of 9?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "3cb0a82b-1c13-4e68-b807-755cefb413be",
+    "text": "Find the hypotenuse of a right triangle with legs of length 9 and 5.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "186e185c-7ecc-473b-a8d7-61db44205181",
+    "text": "What is the volume of a cube with a side length of 2?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "de818ac5-e884-4993-9578-498c451e28bd",
+    "text": "Find the hypotenuse of a right triangle with legs of length 1 and 20.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "68f584a4-15aa-479c-a974-6a46af17f596",
+    "text": "What is the area of a rectangle with sides 12 and 10?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "bd92355f-4ff5-42d2-8277-123c4f20ca60",
+    "text": "What is the volume of a cube with a side length of 1?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "94571608-5e5f-4ca6-99c5-61518d51975c",
+    "text": "What is the volume of a cube with a side length of 2?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "ec529281-9b67-4e02-9e62-64aeab7c4016",
+    "text": "Calculate the perimeter of a circle with a radius of 12.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "6a462e39-9311-40f0-b7dd-f08ccde399e5",
+    "text": "Calculate the perimeter of a circle with a radius of 18.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "662f2e25-27b0-4076-af1e-d6d003e854cc",
+    "text": "What is the volume of a cube with a side length of 12?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "aa29b8ac-a8b3-4997-8bcc-0b26a42cb890",
+    "text": "What is the volume of a cube with a side length of 4?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "678df6c9-dc32-4712-b756-d233064c9e1e",
+    "text": "Find the hypotenuse of a right triangle with legs of length 9 and 19.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "e747b23a-7858-46be-b190-b108c22e4bb8",
+    "text": "Calculate the perimeter of a circle with a radius of 3.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "ecf24816-55e2-45e2-a7ef-a8defecebd49",
+    "text": "What is the area of a rectangle with sides 19 and 7?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "b5b7429a-b358-4bf6-b17c-5bc702d73062",
+    "text": "If two angles in a triangle are 17 and 15 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "264c8bc6-2393-4895-955c-61635f90de4b",
+    "text": "What is the area of a rectangle with sides 14 and 17?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "e2fba40a-ce35-49eb-8fd5-8929d76b48fe",
+    "text": "Find the hypotenuse of a right triangle with legs of length 9 and 14.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "8c09c974-d6a9-4c02-9dc7-70bbdf8f9a6d",
+    "text": "What is the volume of a cube with a side length of 12?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "c4f2e6f4-3eb9-43eb-b5b8-11661f0662ff",
+    "text": "What is the volume of a cube with a side length of 5?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "62f2969e-b0b1-442c-945f-2373d10f7514",
+    "text": "If two angles in a triangle are 12 and 1 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "cde14541-e739-48c2-85ea-cc1e137a5a2b",
+    "text": "What is the volume of a cube with a side length of 7?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "0e7f2bbf-cca1-44f6-a5e2-e475f5a4379d",
+    "text": "Find the hypotenuse of a right triangle with legs of length 5 and 13.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "96cf7330-098a-4961-988b-b5de106e82b2",
+    "text": "Calculate the perimeter of a circle with a radius of 2.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "73318824-fe0a-4ab9-ada7-bcadfba1683f",
+    "text": "If two angles in a triangle are 17 and 8 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "a372cbd2-4ea0-4b50-b02d-aed0b43da64d",
+    "text": "Find the hypotenuse of a right triangle with legs of length 10 and 19.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "2dac8fb3-261a-4074-b510-2e82ad9dbbd6",
+    "text": "What is the area of a rectangle with sides 5 and 2?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "92c57e16-ee04-48f1-b523-6d436f614061",
+    "text": "What is the volume of a cube with a side length of 19?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "b84af354-410a-4e37-a233-43977b7610b9",
+    "text": "What is the area of a rectangle with sides 17 and 19?",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "839281f0-09e0-440e-82a2-1742a73b3c05",
+    "text": "Find the hypotenuse of a right triangle with legs of length 14 and 4.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "53350f74-c640-4485-8e4c-4f9a80bf13d5",
+    "text": "Find the hypotenuse of a right triangle with legs of length 3 and 2.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "27b43591-a1f9-4e9b-a635-36112734a9d5",
+    "text": "Calculate the perimeter of a circle with a radius of 18.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "d50220c5-e56a-418e-ad96-fdb160baf86d",
+    "text": "Calculate the perimeter of a circle with a radius of 2.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "ee7e40fe-091d-4df3-9c82-90eaa65e1e03",
+    "text": "Find the hypotenuse of a right triangle with legs of length 4 and 12.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "d1ea0a6e-95f6-4989-81c5-750e4e48ed42",
+    "text": "Calculate the perimeter of a circle with a radius of 1.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "82c6d004-e029-4255-98b9-280a3603a856",
+    "text": "Calculate the perimeter of a circle with a radius of 13.",
+    "topic": "Geometry",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "d7ea1f07-e500-4665-85b2-c7407d7a8857",
+    "text": "Find the hypotenuse of a right triangle with legs of length 8 and 2.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "ac037224-7265-433f-9239-4b1baab5c15f",
+    "text": "If two angles in a triangle are 20 and 1 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "46254363-ae9c-4c1c-bb72-a8864baedb5b",
+    "text": "Calculate the perimeter of a circle with a radius of 16.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "29804ca1-bfe8-4c79-aa0a-986670456777",
+    "text": "If two angles in a triangle are 8 and 4 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "32a31550-8830-43c4-af59-dc79b6a815dc",
+    "text": "What is the volume of a cube with a side length of 14?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "2e5411fd-eb27-4508-a680-d85d576ccbe4",
+    "text": "If two angles in a triangle are 17 and 10 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "cc64f070-1101-4d61-ab40-d3a27c023ab2",
+    "text": "If two angles in a triangle are 9 and 15 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "2a28f1a8-0a86-4052-9817-099419bdc9a5",
+    "text": "If two angles in a triangle are 19 and 7 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "b12e4b88-a558-44a5-a4f0-c6e3118da603",
+    "text": "What is the area of a rectangle with sides 15 and 10?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "89b07823-c07f-42fc-a634-6bd6f31e96e0",
+    "text": "If two angles in a triangle are 7 and 20 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "6556a5e4-8ce9-4831-957a-2b2369d97aaa",
+    "text": "What is the area of a rectangle with sides 4 and 17?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "413eb27f-d152-4713-af86-484585399668",
+    "text": "What is the volume of a cube with a side length of 16?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "68f0aa73-1f51-4176-8660-db00cee11db0",
+    "text": "If two angles in a triangle are 20 and 10 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "8dea2206-1cd7-4ee3-be68-755d80ff8cd3",
+    "text": "What is the area of a rectangle with sides 15 and 20?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "0486c909-4c81-4550-8d38-7ba79ae97929",
+    "text": "Calculate the perimeter of a circle with a radius of 3.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "25806ce7-6a43-42cf-9d33-e3528bd65487",
+    "text": "Calculate the perimeter of a circle with a radius of 10.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "29e55886-9561-4265-a67c-94bc1cf091d6",
+    "text": "What is the area of a rectangle with sides 9 and 8?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "bc30ff29-2826-44b9-8c76-3d5000adcdc0",
+    "text": "Find the hypotenuse of a right triangle with legs of length 12 and 4.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "2772e4c6-8526-45a4-9755-0a96de5e49dd",
+    "text": "Calculate the perimeter of a circle with a radius of 14.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "69c15da9-720c-4583-880c-e8af91e19062",
+    "text": "What is the area of a rectangle with sides 17 and 20?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "6c19ef44-9f15-4f1a-9213-67ec0c56f8d0",
+    "text": "Calculate the perimeter of a circle with a radius of 18.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "1f6f7bd5-86ca-431b-9ee0-a6afc826638d",
+    "text": "Calculate the perimeter of a circle with a radius of 17.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "e4255b46-140d-48cf-abff-5355ad53ef0f",
+    "text": "If two angles in a triangle are 9 and 15 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "4f752444-1e40-4a99-9d9c-b6eee559a55e",
+    "text": "If two angles in a triangle are 2 and 10 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "81841276-08eb-4a6c-9b43-1ca8b49bd3d1",
+    "text": "What is the volume of a cube with a side length of 3?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "9f2c1287-1387-4a3d-96bc-9838f969fb29",
+    "text": "What is the volume of a cube with a side length of 7?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "d57e9649-0b8b-4e98-b047-9a70b4037709",
+    "text": "If two angles in a triangle are 19 and 9 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "b5f0cc40-529d-4758-86e8-b9152091050f",
+    "text": "Find the hypotenuse of a right triangle with legs of length 2 and 18.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "0ea486c2-3186-46ac-bdbd-237a0b3620f0",
+    "text": "Calculate the perimeter of a circle with a radius of 14.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "18a7b546-b08c-4864-b3eb-b2dd22f0827f",
+    "text": "If two angles in a triangle are 12 and 8 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "4e42b668-3622-4815-b2de-5c73db971cab",
+    "text": "What is the volume of a cube with a side length of 5?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "41c000b1-5469-472c-b9fb-1da1b5fd2e83",
+    "text": "Find the hypotenuse of a right triangle with legs of length 17 and 7.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "f69461e0-af8b-4f54-9807-b0a5b207ffe9",
+    "text": "Find the hypotenuse of a right triangle with legs of length 10 and 15.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 3
+  },
+  {
+    "id": "22b1ac42-0c41-4414-a311-f4bd2cc618f2",
+    "text": "If two angles in a triangle are 14 and 6 degrees, what is the third angle?",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 4
+  },
+  {
+    "id": "b8c154ed-19e9-4b2c-9dd0-28d2b581a194",
+    "text": "Calculate the perimeter of a circle with a radius of 14.",
+    "topic": "Geometry",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "d12cf5db-6547-4c2b-9372-b4ccdc74a431",
+    "text": "A coin is flipped 20 times. What is the probability of getting exactly 4 heads?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "d937962d-48a3-4e00-a240-7dad75a19230",
+    "text": "What is the mean of the dataset: 8, 18, 3, 6?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "4dbb26f4-42b9-4144-aeb9-2e87ede0ddb1",
+    "text": "A coin is flipped 20 times. What is the probability of getting exactly 10 heads?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "cc89f044-0712-40c7-b232-cf20719a04b0",
+    "text": "Calculate the standard deviation for the simple dataset: 1, 13.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "b7e168c8-6d89-47b2-b784-2aed0f985544",
+    "text": "What is the range of the following set of values: 3, 7, 9, 4?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "2ad3e511-f311-4974-8a58-4507f8ce099f",
+    "text": "Find the median of the numbers: 8, 4, 8.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "d0c6fbb8-af5b-4acb-9f8f-8ebe97a0a657",
+    "text": "A coin is flipped 5 times. What is the probability of getting exactly 15 heads?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "35bd8a4d-fa50-4033-bbe6-5df7b5e29758",
+    "text": "Find the median of the numbers: 5, 16, 2.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "738fba58-54df-49f4-9c7b-9797c9cccd70",
+    "text": "What is the mean of the dataset: 4, 15, 8, 2?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "b152b7f3-9be8-43e8-9179-a7748aab9972",
+    "text": "Calculate the standard deviation for the simple dataset: 1, 9.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "6b3dc218-9009-4e6a-8f4a-1e9fa5e88ca3",
+    "text": "Calculate the standard deviation for the simple dataset: 5, 15.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "e6e7d030-886d-4855-8bfb-b8b01fa7420a",
+    "text": "Calculate the standard deviation for the simple dataset: 3, 5.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "e90d1c34-e0ad-4241-85a0-41860a4bda65",
+    "text": "What is the mean of the dataset: 3, 17, 8, 9?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "f2650dd4-c7bb-4d28-89e6-71b24777122a",
+    "text": "What is the mean of the dataset: 8, 19, 6, 7?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "6f68bfa7-2478-49a5-8069-737799b35769",
+    "text": "What is the mean of the dataset: 1, 11, 10, 5?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "3c45a14a-6280-40d6-9529-4fd849c1e0cd",
+    "text": "Calculate the standard deviation for the simple dataset: 6, 4.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "9abd2277-8132-4950-8fc3-96a5be8f64c1",
+    "text": "Find the median of the numbers: 19, 17, 1.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "c078c58c-e89b-4b48-93a1-e28bdae61b42",
+    "text": "What is the mean of the dataset: 14, 19, 2, 2?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "a69ba82b-a8f4-4f2e-943c-22a3677cebef",
+    "text": "What is the mean of the dataset: 13, 5, 10, 6?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "8e1a15df-26b0-473a-abd0-13f48c9cf43e",
+    "text": "A coin is flipped 6 times. What is the probability of getting exactly 13 heads?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "3f821012-f734-4f27-b6b5-901f8cc1d5b0",
+    "text": "What is the mean of the dataset: 11, 4, 8, 6?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "34e61454-8c75-4872-980c-e6d9eec4087b",
+    "text": "What is the mean of the dataset: 16, 8, 2, 9?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "64fb5c39-8a88-4d76-9872-7af8a128545d",
+    "text": "Find the median of the numbers: 12, 9, 8.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "f85c8ff6-837a-42ae-9036-cea5c3bbdab5",
+    "text": "What is the mean of the dataset: 1, 19, 5, 2?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "a2e9f07f-cd1a-47cb-83e6-40a9fb34816d",
+    "text": "What is the mean of the dataset: 18, 6, 5, 8?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "e8befe34-d472-42ae-bbfd-869a8689eb03",
+    "text": "Find the median of the numbers: 7, 19, 2.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "c8d4797c-2163-4ad8-aeff-a12613943d90",
+    "text": "Find the median of the numbers: 7, 19, 6.",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "6dbc57ff-7de1-4410-9e9e-18e1c88d5543",
+    "text": "A coin is flipped 1 times. What is the probability of getting exactly 4 heads?",
+    "topic": "Statistics",
+    "difficulty": 3,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "9ac56172-9087-4a1d-aecf-43ac7e801cb5",
+    "text": "Calculate the standard deviation for the simple dataset: 20, 13.",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "19cc05cf-5a27-4957-b851-c271930ed39a",
+    "text": "Calculate the standard deviation for the simple dataset: 4, 19.",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "36b172a7-c65b-4ee2-a543-b8aa770935e0",
+    "text": "Calculate the standard deviation for the simple dataset: 17, 6.",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "f3030d4a-c523-4a0e-825f-d857d694bef8",
+    "text": "A coin is flipped 2 times. What is the probability of getting exactly 8 heads?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "e2eb70eb-3607-428a-aa29-66e6686d4904",
+    "text": "Calculate the standard deviation for the simple dataset: 3, 11.",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "c7cdc60c-6219-468d-8cc5-622fc377e0d0",
+    "text": "What is the range of the following set of values: 11, 18, 8, 4?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "5d0e87c2-bc60-4c16-9572-25a83f5b88d4",
+    "text": "Find the median of the numbers: 16, 17, 8.",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "7e87a78a-49af-429e-8269-41f704e038f5",
+    "text": "A coin is flipped 12 times. What is the probability of getting exactly 6 heads?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "fa3b5aa9-56cb-44ea-add1-990cf0f843a5",
+    "text": "A coin is flipped 11 times. What is the probability of getting exactly 1 heads?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "8149d3d4-dc72-4723-8a03-f3fe3a787ad1",
+    "text": "What is the range of the following set of values: 16, 13, 5, 2?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "a91e5a66-3ad7-45c4-965a-286074ea24f3",
+    "text": "Calculate the standard deviation for the simple dataset: 4, 6.",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "6b88e4b0-4f1c-46cc-a807-18093d1baeb4",
+    "text": "What is the range of the following set of values: 5, 3, 9, 2?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "6ce64b73-afdb-4528-b3b3-b62f6eb768d9",
+    "text": "Find the median of the numbers: 15, 6, 10.",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "88b2f352-5297-4c93-9b68-e4851d355329",
+    "text": "What is the range of the following set of values: 12, 19, 5, 2?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "afdae4dc-1daa-4695-9909-744e49a4e657",
+    "text": "What is the mean of the dataset: 11, 2, 5, 8?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "deb57088-943d-4f70-9cb7-7ced5629824b",
+    "text": "What is the mean of the dataset: 8, 11, 5, 8?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "f9897ddf-80da-4896-872f-4ca8a1d72bca",
+    "text": "What is the mean of the dataset: 4, 16, 2, 4?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "f6421992-dd2a-43d7-a180-f43f466b7169",
+    "text": "A coin is flipped 6 times. What is the probability of getting exactly 18 heads?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "feaec85c-e31e-48d6-8556-e74a950da3fa",
+    "text": "What is the range of the following set of values: 7, 11, 3, 6?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "adce47df-9233-4d0e-ba91-4d35dfa81e1c",
+    "text": "Calculate the standard deviation for the simple dataset: 6, 8.",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "dff028e2-d778-4ba6-8717-3d5694ed874f",
+    "text": "What is the mean of the dataset: 5, 9, 7, 3?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "a9b708af-fb8d-4bcc-b268-bc1309637fea",
+    "text": "What is the mean of the dataset: 2, 6, 9, 6?",
+    "topic": "Statistics",
+    "difficulty": 4,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "901a23e4-51a3-41d0-8fa0-2d02f65cc8d6",
+    "text": "What is the mean of the dataset: 5, 2, 10, 9?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "1514cd3f-67c6-4324-946d-9a37f8a5b75a",
+    "text": "Find the median of the numbers: 2, 10, 2.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "d319f8f5-37b5-46e1-b2bb-149bd17a87b4",
+    "text": "What is the mean of the dataset: 19, 10, 8, 4?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "cc543a81-41f9-4e40-ae94-4acf6c59cacc",
+    "text": "What is the mean of the dataset: 8, 5, 10, 6?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "c5dca631-780e-4780-a17c-d759296d52d3",
+    "text": "What is the mean of the dataset: 12, 12, 8, 5?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "8021d0eb-3869-403a-bb4b-6313f8f7bdcd",
+    "text": "What is the mean of the dataset: 7, 4, 4, 10?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "be922c0d-76ac-4a46-9b0a-7f74ddf837c2",
+    "text": "A coin is flipped 13 times. What is the probability of getting exactly 9 heads?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "eba92b6c-c47e-4263-8e8d-1660603cb643",
+    "text": "Calculate the standard deviation for the simple dataset: 20, 5.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "273d3c8a-97b8-4681-8023-5b70913eac1b",
+    "text": "What is the range of the following set of values: 1, 14, 1, 6?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "fffb7995-b427-4186-9b6b-4b77ac9ce8f5",
+    "text": "What is the mean of the dataset: 14, 2, 6, 3?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "c8374f21-5d8a-4405-adb5-35603c5e3167",
+    "text": "What is the mean of the dataset: 5, 8, 4, 3?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "128e77dd-83f2-43cb-8923-c82cca5da2cb",
+    "text": "What is the range of the following set of values: 13, 16, 7, 10?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "4c263a0a-bde3-404f-aafc-2d5fe05293b3",
+    "text": "A coin is flipped 13 times. What is the probability of getting exactly 8 heads?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "c90a47a7-31c6-4bd3-bb27-58fed13ff6f6",
+    "text": "What is the range of the following set of values: 4, 17, 8, 3?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "2bd277e5-3a62-47e6-8b91-197d9a1f81e6",
+    "text": "What is the range of the following set of values: 2, 3, 3, 9?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "355669dd-7639-484b-ab3e-1b88bb31d648",
+    "text": "What is the mean of the dataset: 15, 14, 4, 8?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "d4efa90b-93c4-40e2-a4b3-21af35295106",
+    "text": "Calculate the standard deviation for the simple dataset: 12, 17.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "b9e81314-45e2-4cb2-ac50-b7241df38ee6",
+    "text": "What is the mean of the dataset: 11, 12, 1, 2?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "601f1b78-2ef9-4443-a248-b9e3676b45f3",
+    "text": "What is the range of the following set of values: 12, 15, 1, 3?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "5a5c8c83-2a41-48ce-9c04-50949607d9c4",
+    "text": "A coin is flipped 11 times. What is the probability of getting exactly 10 heads?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "4193297d-9f56-46b2-b5f2-9c959ffa81ad",
+    "text": "Find the median of the numbers: 19, 19, 9.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "55d7605e-d11c-4196-9cdd-f8927a38a03c",
+    "text": "What is the mean of the dataset: 9, 19, 8, 7?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 6
+  },
+  {
+    "id": "ef805398-0cd5-4d6d-b010-f67994df9270",
+    "text": "Find the median of the numbers: 15, 7, 5.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "243d110b-44e0-4e72-b7d2-133bbb84b01f",
+    "text": "Calculate the standard deviation for the simple dataset: 9, 20.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 9
+  },
+  {
+    "id": "efd5111e-7600-48a9-86ec-4c5b993a9a66",
+    "text": "Calculate the standard deviation for the simple dataset: 10, 14.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "88803f69-9624-4dbd-a87b-7a846c3e514a",
+    "text": "Calculate the standard deviation for the simple dataset: 20, 19.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "6644de7f-79cf-4888-9d6a-0876dab0157b",
+    "text": "What is the mean of the dataset: 8, 16, 6, 1?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "900963be-459f-4ae1-aa4c-563b4618815a",
+    "text": "Find the median of the numbers: 13, 4, 6.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "b15cc942-c8c3-43fe-b6f0-7c8e0d1b3dde",
+    "text": "What is the mean of the dataset: 9, 13, 2, 10?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 12
+  },
+  {
+    "id": "4fab4e25-ca98-40f0-99a7-e9a130183094",
+    "text": "Find the median of the numbers: 20, 1, 5.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "553d08f0-5b74-409a-b4ff-083271022fb3",
+    "text": "A coin is flipped 11 times. What is the probability of getting exactly 15 heads?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "9c018eec-a532-40df-be3d-59084f3f557e",
+    "text": "A coin is flipped 15 times. What is the probability of getting exactly 1 heads?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 10
+  },
+  {
+    "id": "7bdc897d-ad9d-4382-8b25-a9688f6c92d2",
+    "text": "What is the range of the following set of values: 18, 12, 10, 1?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 7
+  },
+  {
+    "id": "afb8f39e-7725-4f97-a1b5-b327852cfb39",
+    "text": "What is the range of the following set of values: 9, 1, 2, 7?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 8
+  },
+  {
+    "id": "79cdb9e2-1271-4b6f-88a7-c49030a9c922",
+    "text": "Find the median of the numbers: 8, 12, 7.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "45d454ef-d626-4961-8c71-c8f9e47affa0",
+    "text": "Find the median of the numbers: 19, 14, 2.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 5
+  },
+  {
+    "id": "4caf792b-bcdc-42b1-ad32-623d0d8d4fc7",
+    "text": "Calculate the standard deviation for the simple dataset: 1, 17.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "544c6a7f-d3a8-4d91-ac9e-c540826558e8",
+    "text": "Find the median of the numbers: 15, 6, 7.",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 11
+  },
+  {
+    "id": "91c8d1f2-14f6-431a-b791-2b61d3ef892b",
+    "text": "A coin is flipped 18 times. What is the probability of getting exactly 15 heads?",
+    "topic": "Statistics",
+    "difficulty": 5,
+    "estimated_time_to_solve_minutes": 6
+  }
+]
